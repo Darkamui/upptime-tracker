@@ -1,4 +1,22 @@
-# [📈 Live Status](https://Darkamui.github.io/upptime-tracker): <!--live status--> **🟩 All systems operational**
+# Upptime Tracker
+
+*Why use Upptime and not host your own uptime tracker ?* 
+
+If you want to have an uptime tracker for your sites hosted on a vps, you would theoretically need the tracker to be on a different server for it to be able to send a failure update. Instead of paying for an extra server to host an uptime tracker to track the wanted server, Upptime allows for uptime checks using:
+
+Github Actions to deploy the uptime test following a schedule
+
+Github Issues to notify if a website is unreachable
+
+Github Pages to display your upptime dashboard
+
+- Start a new template repo from upptime/upptime (include all branches, set to public for unlimited minutes)
+-  in developer settings, generate new fine grained token for created repo
+- Set actions,contents,issues and workflows access to read&write
+- Copy token to created repo secrets and variables in actions 'GH_PAT'
+- edit .upptimerc.yml as needed for your needs (modify owner, repo, sites,baseurl, remove cname line)
+
+## [📈 Live Status](https://Darkamui.github.io/upptime-tracker): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Daniel Jerusalmy](https://Darkamui.github.io/upptime-tracker), powered by [Upptime](https://github.com/upptime/upptime).
 
