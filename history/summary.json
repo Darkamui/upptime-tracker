@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 398,
-    "timeDay": 368,
-    "timeWeek": 349,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "time": 385,
+    "timeDay": 294,
+    "timeWeek": 346,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2024-09-19": 17
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fe4fs.j-web.ca.ico",
     "slug": "fe-4-fs",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "98.42%",
+    "uptimeDay": "77.58%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
     "time": 266,
-    "timeDay": 207,
-    "timeWeek": 225,
+    "timeDay": 0,
+    "timeWeek": 243,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-09-19": 17
+      "2024-09-20": 43,
+      "2024-09-19": 280
     }
   }
 ]
