@@ -6,15 +6,15 @@
     "slug": "j-web",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 385,
-    "timeDay": 294,
-    "timeWeek": 346,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "time": 384,
+    "timeDay": 363,
+    "timeWeek": 352,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2024-09-19": 17
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fe4fs.j-web.ca.ico",
     "slug": "fe-4-fs",
     "status": "down",
-    "uptime": "98.42%",
-    "uptimeDay": "77.58%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
+    "uptime": "91.92%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "82.52%",
+    "uptimeMonth": "91.92%",
+    "uptimeYear": "91.92%",
     "time": 266,
     "timeDay": 0,
-    "timeWeek": 243,
+    "timeWeek": 250,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-09-20": 43,
+      "2024-09-21": 42,
+      "2024-09-20": 1440,
       "2024-09-19": 280
     }
   }
