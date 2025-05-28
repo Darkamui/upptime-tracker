@@ -7,6 +7,8 @@ sites:
     url: https://www.j-web.ca
   - name: FE4FS
     url: https://fe4fs.j-web.ca
+  - name: Raphael Jerusalmy
+    url: https://raphaeljerusalmy.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage:
   navbar:
     - title: Status
       href: /
