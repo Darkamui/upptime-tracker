@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.j-web.ca.ico",
     "slug": "j-web",
     "status": "up",
-    "uptime": "95.22%",
+    "uptime": "95.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.22%",
+    "uptimeYear": "95.23%",
     "time": 465,
     "timeDay": 246,
     "timeWeek": 288,
@@ -67,17 +67,19 @@
     "url": "https://raphaeljerusalmy.com",
     "icon": "https://icons.duckduckgo.com/ip3/raphaeljerusalmy.com.ico",
     "slug": "raphael-jerusalmy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 282,
-    "timeWeek": 325,
-    "timeMonth": 336,
-    "timeYear": 336,
-    "dailyMinutesDown": {}
+    "time": 934,
+    "timeDay": 9880,
+    "timeWeek": 2719,
+    "timeMonth": 934,
+    "timeYear": 934,
+    "dailyMinutesDown": {
+      "2025-06-27": 0
+    }
   }
 ]
