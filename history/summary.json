@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.j-web.ca.ico",
     "slug": "j-web",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.88%",
+    "uptimeYear": "95.89%",
     "time": 442,
     "timeDay": 546,
     "timeWeek": 420,
@@ -87,9 +87,9 @@
     "url": "https://manuelbleu.com",
     "icon": "https://icons.duckduckgo.com/ip3/manuelbleu.com.ico",
     "slug": "manuel-bleu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +98,8 @@
     "timeWeek": 1063,
     "timeMonth": 1128,
     "timeYear": 1128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   }
 ]
