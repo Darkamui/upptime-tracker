@@ -5,8 +5,6 @@ repo: upptime-tracker # The name of this repository
 sites:
   - name: J-web
     url: https://www.j-web.ca
-  - name: FE4FS
-    url: https://fe4fs.j-web.ca
   - name: Raphael Jerusalmy
     url: https://raphaeljerusalmy.com
   - name: Manuel Bleu
