@@ -9,6 +9,8 @@ sites:
     url: https://raphaeljerusalmy.com
   - name: Manuel Bleu
     url: https://manuelbleu.com
+  - name: Sea View Penthouse
+    url: https://seaview-penthouse.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
